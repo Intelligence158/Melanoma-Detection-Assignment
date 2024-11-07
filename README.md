@@ -5,7 +5,7 @@ In this assignment, we have build a multiclass classification model using a cust
 # Table of Contents
 - Problem statement
 - Acknowledgements
-- - Conclusions
+- Conclusions
 - Technologies Used
 - Acknowledgements
 
