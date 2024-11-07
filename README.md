@@ -5,8 +5,9 @@ In this assignment, we have build a multiclass classification model using a cust
 # Table of Contents
 - Problem statement
 - Acknowledgements
+- - Conclusions
 - Technologies Used
-- Conclusions
+- Acknowledgements
 
 # Problem statement
 To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
@@ -48,12 +49,7 @@ The problem of overfitting and underfitting was solved and the model was well tr
 
 # Acknowledgements
 This project was based on tutorial (https://learn.upgrad.com/course/5800/segment/55852/333577/1009201/5042348)
-Contact
-Created by [https://github.com/Intelligence158/BoomBikes-Case-study.git] - feel free to contact me!
 
+# Contact
+Created by [https://github.com/Intelligence158/Melanoma-Detection-Assignment.git] - feel free to contact me!
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
