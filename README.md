@@ -34,6 +34,7 @@ Model Building & training on the augmented data
 Class distribution
 Handling class imbalances
 Model Building & training on the rectified class imbalance data
+
 Conclusions
 The problem of overfitting and underfitting was solved and the model was well trained for predictions. Data augmentation, outliers, and class equalization were found to be useful in improving model performance in this case.
 
@@ -43,8 +44,11 @@ TensorFlow
 Python 3
 Pandas, Numpy, Matplotlib,
 Augmentor
+
+Acknowledgements
+This project was based on tutorial (https://learn.upgrad.com/course/5800/segment/52631/312290/946791/4725024)
 Contact
-Created by [ - feel free to contact me!
+Created by [https://github.com/Intelligence158/BoomBikes-Case-study.git] - feel free to contact me!
 
 
 <!-- Optional -->
